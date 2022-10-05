@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @R-Z-7
-- 👀 I’m interested in ethical hacking and mobile app development.
 - 🌱 I build interactive websites that run across platforms & devices.
 
 <!---
